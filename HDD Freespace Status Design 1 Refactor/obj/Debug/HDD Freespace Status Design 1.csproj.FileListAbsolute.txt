@@ -1,0 +1,30 @@
+F:\Fakhruddin Study\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\bin\Debug\HDD Freespace Status Design 1.exe.config
+F:\Fakhruddin Study\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\bin\Debug\HDD Freespace Status Design 1.exe
+F:\Fakhruddin Study\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\bin\Debug\HDD Freespace Status Design 1.pdb
+F:\Fakhruddin Study\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status Design 1.csprojAssemblyReference.cache
+F:\Fakhruddin Study\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD_Freespace_Status_Design_1.Form1.resources
+F:\Fakhruddin Study\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD_Freespace_Status_Design_1.Properties.Resources.resources
+F:\Fakhruddin Study\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status Design 1.csproj.GenerateResource.cache
+F:\Fakhruddin Study\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status Design 1.csproj.CoreCompileInputs.cache
+F:\Fakhruddin Study\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status Design 1.exe
+F:\Fakhruddin Study\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status Design 1.pdb
+C:\Users\user\Downloads\Documentation\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\bin\Debug\HDD Freespace Status.exe.config
+C:\Users\user\Downloads\Documentation\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\bin\Debug\HDD Freespace Status.exe
+C:\Users\user\Downloads\Documentation\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\bin\Debug\HDD Freespace Status.pdb
+C:\Users\user\Downloads\Documentation\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD_Freespace_Status_Design_1.Form1.resources
+C:\Users\user\Downloads\Documentation\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD_Freespace_Status_Design_1.Properties.Resources.resources
+C:\Users\user\Downloads\Documentation\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status Design 1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Documentation\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status Design 1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Documentation\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status.exe
+C:\Users\user\Downloads\Documentation\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status.pdb
+C:\Users\user\Downloads\Documentation\Projects\HDD Freespace Status Design 1\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status Design 1.csprojAssemblyReference.cache
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design\HDD Freespace Status Design 1\bin\Debug\HDD Freespace Status.exe.config
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design\HDD Freespace Status Design 1\bin\Debug\HDD Freespace Status.exe
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design\HDD Freespace Status Design 1\bin\Debug\HDD Freespace Status.pdb
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status Design 1.csprojAssemblyReference.cache
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design\HDD Freespace Status Design 1\obj\Debug\HDD_Freespace_Status_Design_1.Form1.resources
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design\HDD Freespace Status Design 1\obj\Debug\HDD_Freespace_Status_Design_1.Properties.Resources.resources
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status Design 1.csproj.GenerateResource.cache
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status Design 1.csproj.CoreCompileInputs.cache
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status.exe
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design\HDD Freespace Status Design 1\obj\Debug\HDD Freespace Status.pdb

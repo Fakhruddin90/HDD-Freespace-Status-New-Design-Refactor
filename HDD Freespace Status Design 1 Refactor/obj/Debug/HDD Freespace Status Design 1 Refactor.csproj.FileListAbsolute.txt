@@ -1,0 +1,10 @@
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design-Refactor\HDD Freespace Status Design 1 Refactor\bin\Debug\HDD Freespace Status.exe.config
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design-Refactor\HDD Freespace Status Design 1 Refactor\bin\Debug\HDD Freespace Status.exe
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design-Refactor\HDD Freespace Status Design 1 Refactor\bin\Debug\HDD Freespace Status.pdb
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design-Refactor\HDD Freespace Status Design 1 Refactor\obj\Debug\HDD Freespace Status Design 1 Refactor.csprojAssemblyReference.cache
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design-Refactor\HDD Freespace Status Design 1 Refactor\obj\Debug\HDD_Freespace_Status_Design_1.Properties.Resources.resources
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design-Refactor\HDD Freespace Status Design 1 Refactor\obj\Debug\HDD Freespace Status Design 1 Refactor.csproj.GenerateResource.cache
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design-Refactor\HDD Freespace Status Design 1 Refactor\obj\Debug\HDD Freespace Status Design 1 Refactor.csproj.CoreCompileInputs.cache
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design-Refactor\HDD Freespace Status Design 1 Refactor\obj\Debug\HDD Freespace Status.exe
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design-Refactor\HDD Freespace Status Design 1 Refactor\obj\Debug\HDD Freespace Status.pdb
+G:\BACKUP\Programming\Repositories\1_C#\HDD-Freespace-Status-New-Design-Refactor\HDD Freespace Status Design 1 Refactor\obj\Debug\HDD_Freespace_Status_Design_1.Form1.resources
