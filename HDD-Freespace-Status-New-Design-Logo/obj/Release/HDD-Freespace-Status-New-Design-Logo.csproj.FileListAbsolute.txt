@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\Documentation\Projects\HDD-Freespace-Status-New-Design-Logo\HDD-Freespace-Status-New-Design-Logo\bin\Release\HDD Freespace Status.exe.config
+C:\Users\user\Downloads\Documentation\Projects\HDD-Freespace-Status-New-Design-Logo\HDD-Freespace-Status-New-Design-Logo\bin\Release\HDD Freespace Status.exe
+C:\Users\user\Downloads\Documentation\Projects\HDD-Freespace-Status-New-Design-Logo\HDD-Freespace-Status-New-Design-Logo\bin\Release\HDD Freespace Status.pdb
+C:\Users\user\Downloads\Documentation\Projects\HDD-Freespace-Status-New-Design-Logo\HDD-Freespace-Status-New-Design-Logo\obj\Release\HDD_Freespace_Status_Design_1.Form1.resources
+C:\Users\user\Downloads\Documentation\Projects\HDD-Freespace-Status-New-Design-Logo\HDD-Freespace-Status-New-Design-Logo\obj\Release\HDD_Freespace_Status_Design_1.Properties.Resources.resources
+C:\Users\user\Downloads\Documentation\Projects\HDD-Freespace-Status-New-Design-Logo\HDD-Freespace-Status-New-Design-Logo\obj\Release\HDD-Freespace-Status-New-Design-Logo.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Documentation\Projects\HDD-Freespace-Status-New-Design-Logo\HDD-Freespace-Status-New-Design-Logo\obj\Release\HDD-Freespace-Status-New-Design-Logo.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Documentation\Projects\HDD-Freespace-Status-New-Design-Logo\HDD-Freespace-Status-New-Design-Logo\obj\Release\HDD Freespace Status.exe
+C:\Users\user\Downloads\Documentation\Projects\HDD-Freespace-Status-New-Design-Logo\HDD-Freespace-Status-New-Design-Logo\obj\Release\HDD Freespace Status.pdb
+C:\Users\user\Downloads\Documentation\Projects\HDD-Freespace-Status-New-Design-Logo\HDD-Freespace-Status-New-Design-Logo\obj\Release\HDD-Freespace-Status-New-Design-Logo.csprojAssemblyReference.cache
